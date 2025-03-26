@@ -3,6 +3,7 @@ name: Build and test
 on:
   push:
     branches: [master]
+  workflow_dispatch:
 jobs:
   buildAndTest:
     name: Build and test (Node.js v${{ matrix.node-version }})
