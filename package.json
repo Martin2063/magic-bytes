@@ -27,7 +27,7 @@
     "semantic-release": "semantic-release"
   },
   "repository": {
-    "url": "https://github.com/LarsKoelpin/magic-bytes",
+    "url": "https://github.com/Martin2063/magic-bytes",
     "type": "git"
   },
   "author": "Lars Kölpin",
